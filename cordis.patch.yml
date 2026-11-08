@@ -1,0 +1,4 @@
+# 镜像人生 bundle patch：把插件插入 profile 的配置层栈。
+- insert:
+    - id: mirror-life
+      name: '@local/mirror-life'

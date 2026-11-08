@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="镜像人生">
+  <defs>
+    <linearGradient id="ml-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C9CFF"/>
+      <stop offset="1" stop-color="#2F55E0"/>
+    </linearGradient>
+    <linearGradient id="ml-glass" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#F4F7FF" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#D8E2FF" stop-opacity="0.86"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="url(#ml-bg)"/>
+  <ellipse cx="32" cy="25" rx="12.5" ry="14.5" fill="url(#ml-glass)"/>
+  <path d="M32 41.5c8.4 0 14.6 4.9 15.6 10.6H16.4C17.4 46.4 23.6 41.5 32 41.5z" fill="#EAF0FF" opacity="0.82"/>
+  <circle cx="27" cy="21.5" r="1.9" fill="#2F55E0" opacity="0.5"/>
+  <circle cx="37" cy="21.5" r="1.9" fill="#2F55E0" opacity="0.5"/>
+  <path d="M28.5 27.5c2.2 1.9 4.8 1.9 7 0" fill="none" stroke="#2F55E0" stroke-width="1.6" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="49" cy="15" r="2.2" fill="#FFFFFF" opacity="0.9"/>
+</svg>
